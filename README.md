@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my webdevelopment skills.**
 
-- 🌱 I’m currently learning **ReactJS.**
+- 🌱 I’m currently learning **Vue.js**
 
 
 
